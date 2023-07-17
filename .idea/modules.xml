@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Codes fournis par Patty copy/Codes_Synthétiques/.idea/Codes_Synthétiques.iml" filepath="$PROJECT_DIR$/../Codes fournis par Patty copy/Codes_Synthétiques/.idea/Codes_Synthétiques.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Dispersion Entropy on Graphs.iml" filepath="$PROJECT_DIR$/.idea/Dispersion Entropy on Graphs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Codes fournis par Patty copy/Paper_Entropy/.idea/Paper_Entropy.iml" filepath="$PROJECT_DIR$/../Codes fournis par Patty copy/Paper_Entropy/.idea/Paper_Entropy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Permutation Entropy On Graphs/.idea/Permutation Entropy on Graphs.iml" filepath="$PROJECT_DIR$/../Permutation Entropy On Graphs/.idea/Permutation Entropy on Graphs.iml" />
+    </modules>
+  </component>
+</project>
